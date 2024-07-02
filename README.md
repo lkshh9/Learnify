@@ -1,7 +1,11 @@
 # Learnify
 
+ 
+## [Project Idea description ](https://regal-cosmonaut-1ec.notion.site/Course-LMS-8e6f9a58607b4e57bb0aeb790dc88eb7)
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+
+This is a [Next.js](https://nextjs.org/) project built with Tailwind CSS and [Aceternity UI library](https://ui.aceternity.com/)
 
 ## Getting Started
 
