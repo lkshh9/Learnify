@@ -1,0 +1,38 @@
+[
+    {   
+        "title":"Web Development",
+        "description":"MERN stack ",
+        "imageLink":"https://www.creativeitinstitute.com/images/course/course_1663052056.jpg",
+        "published":true,
+        "id":1
+    },
+    { 
+        "title":"Data structures and algorithms",
+        "description":"C++",
+        "imageLink":"https://cdn.educba.com/academy/wp-content/uploads/2015/08/Data-Structures-and-Algorithms-C-1.jpg",
+        "published":true,
+        "id":2
+    },
+    {
+        "title":"OpenAI Course",
+        "description":"Learn prompt engg. with ChatGpt",
+        "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRosUrTiuqqdXno7pkSXolT-IsueURiI8ikSg&usqp=CAU",
+        "published":true,
+        "id":3
+    },
+    {
+        "title":"App Development",
+        "description":"Flutter Firebase",
+        "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn_IDFoHxeAeYoIsF8qx8Vi5ChElqSzu0hrGkmi1f_ti1k0xqiYiYBEaNk6WzhBn5zw5c&usqp=CAU",
+        "published":true,
+        "id":4
+    },
+    {
+        "title":"Linux OS",
+        "description":"Open source",
+        "imageLink":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ4XauDBz4eMRszcw4fdHuRYig1F-DU3j6Sg&usqp=CAU",
+        "published":true,
+        "id":5
+    }
+
+]

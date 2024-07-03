@@ -1,0 +1,64 @@
+{
+    "features": [
+        {
+            "id": 1,
+            "title": "Effortlessly Create Courses from YouTube Playlists",
+            "description": "Transform YouTube playlists into structured courses with a single click.",
+            "isVisible": true
+        },
+        {
+            "id": 2,
+            "title": "Ad-Free Learning Experience",
+            "description": "Watch YouTube lectures seamlessly without ads or distractions.",
+            "isVisible": true
+        },
+        {
+            "id": 3,
+            "title": "User-Friendly Course Management",
+            "description": "Easily browse, view, and manage all available courses on the platform.",
+            "isVisible": true
+        },
+        {
+            "id": 4,
+            "title": "Track Your Learning Progress",
+            "description": "Keep track of your progress through courses and mark videos as completed.",
+            "isVisible": true
+        },
+        {
+            "id": 5,
+            "title": "Secure User Accounts",
+            "description": "Create an account to save your courses and learning progress.",
+            "isVisible": true
+        },
+        {
+            "id": 6,
+            "title": "Intuitive Admin Dashboard",
+            "description": "Admins can create and manage courses effortlessly.",
+            "isVisible": false
+        },
+        {
+            "id": 7,
+            "title": "Rich Multimedia Content",
+            "description": "Access a wide range of video-based courses directly from YouTube.",
+            "isVisible": false
+        },
+        {
+            "id": 8,
+            "title": "Enhanced Learning Environment",
+            "description": "Focus on learning with a distraction-free video player.",
+            "isVisible": false
+        },
+        {
+            "id": 9,
+            "title": "Dynamic Course Creation",
+            "description": "Users can generate courses from their favorite YouTube playlists quickly and easily.",
+            "isVisible": true
+        },
+        {
+            "id": 10,
+            "title": "Seamless Integration with YouTube",
+            "description": "Leverage the power of YouTube to provide comprehensive learning content.",
+            "isVisible": false
+        }
+    ]
+}
