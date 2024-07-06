@@ -1,6 +1,8 @@
 import CourseTestimonials from "@/components/CourseTestimonials";
 import FeaturedCourses from "@/components/FeaturedCourses";
 import HeroSection from "@/components/HeroSection";
+import { IdeaStory } from "@/components/IdeaStory";
+import UpcomingWebinars from "@/components/UpcomingWebinars";
 import WhyChooseUs from "@/components/WhyChooseUs";
 
 
@@ -12,6 +14,8 @@ export default function Home() {
       <FeaturedCourses />
       <WhyChooseUs />
       <CourseTestimonials />
+      <UpcomingWebinars />
+      <IdeaStory />
     </main>
     
   )
