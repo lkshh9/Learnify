@@ -15,7 +15,7 @@ export default function Home() {
       <WhyChooseUs />
       <CourseTestimonials />
       <UpcomingWebinars />
-      {/* <IdeaStory /> */}
+      <IdeaStory />
     </main>
     
   )
