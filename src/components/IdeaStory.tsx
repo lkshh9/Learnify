@@ -9,14 +9,14 @@ import { Roboto } from "next/font/google";
 import localFont from "next/font/local";
 
 
-// const myFont = localFont({
-//   src: '../../public/fonts/CalSans-SemiBold.woff2'
-// });
-
-const roboto = Roboto({
-  subsets: ['latin'],
-  weight: ['400'],
+const myFont = localFont({
+  src: '/fonts/CalSans-SemiBold.woff2'
 });
+
+// const roboto = Roboto({
+//   subsets: ['latin'],
+//   weight: ['400'],
+// });
 
 export function IdeaStory() {
   return (
@@ -34,7 +34,7 @@ export function IdeaStory() {
                   {item.badge}
                 </h2>
 
-                <p className={twMerge(roboto.className, "text-xl mb-4")}>
+                <p className={twMerge(myFont.className, "text-xl mb-4")}>
                   {item.title}
                 </p>
 
