@@ -22,7 +22,7 @@ export function IdeaStory() {
   return (
     <div>
       <div className="text-center mt-10">
-      <h2 className='text-base text-teal-600 font-semibold tracking-wide uppercase'> SNEAK PEAK</h2>
+        <h2 className='text-base text-teal-600 font-semibold tracking-wide uppercase'> SNEAK PEAK</h2>
         <h2 className='mt-2 text-3xl leading-8 font-extrabold tracking-tight text-white sm:text-4xl'> Our Story and Vision</h2>
       </div>
       <div className="mt-10">
@@ -65,7 +65,7 @@ const dummyContent = [
     description: (
       <>
         <p>
-          At Course LMS, we're dedicated to providing an unparalleled learning experience.
+          At Course LMS, we&apos;re dedicated to providing an unparalleled learning experience.
           Our latest feature—transforming YouTube playlists into structured, ad-free courses was born out of a simple yet powerful idea
           <br />
           My idea is to develop a website where users will put their YouTube course playlist as a link and then that playlist 
@@ -90,8 +90,8 @@ const dummyContent = [
     description: (
       <>
         <p>
-        This idea emerged while working on our Course LMS platform, where admins can create courses, and users can view and browse all available courses. 
-        We envisioned an additional feature where users can add a YouTube playlist as a course, simplifying the learning process and keeping everything organized.
+          This idea emerged while working on our Course LMS platform, where admins can create courses, and users can view and browse all available courses. 
+          We envisioned an additional feature where users can add a YouTube playlist as a course, simplifying the learning process and keeping everything organized.
         </p>
         <p>
           In dolore veniam excepteur eu est et sunt velit. Ipsum sint esse
@@ -110,9 +110,9 @@ const dummyContent = [
     description: (
       <>
         <p>
-        We believe in structured learning. While some might use adblockers, we know there's value in presenting content in an organized way. 
-        Inspired by tools that allow users to import their YouTube music playlists to Spotify, we thought, "Why not do the same for educational content?"
-        This feature might not be for everyone, but for those who value a distraction-free, well-organized learning experience, it can be incredibly beneficial.
+          We believe in structured learning. While some might use adblockers, we know there&apos;s value in presenting content in an organized way. 
+          Inspired by tools that allow users to import their YouTube music playlists to Spotify, we thought, &quot;Why not do the same for educational content?&quot;
+          This feature might not be for everyone, but for those who value a distraction-free, well-organized learning experience, it can be incredibly beneficial.
         </p>
       </>
     ),
